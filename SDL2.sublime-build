@@ -1,0 +1,1 @@
+g++ -std=c++11 $file_name -o $file_base_name -I include -L lib -l SDL2-2.0.0 && ./$file_base_name
